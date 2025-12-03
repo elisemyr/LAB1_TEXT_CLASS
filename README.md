@@ -1,1 +1,1 @@
-# LAB1_NLP_TEXT_CLASSIFICATION
+This is the repository of NLP, LLM, TextMining Course Repository
